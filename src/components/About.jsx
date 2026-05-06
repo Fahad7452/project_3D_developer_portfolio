@@ -47,11 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a Full Stack Developer specializing in Next.js, React, TypeScript, Node.js, Python, MongoDB, and Supabase. 
+        I build pixel-perfect UIs from Figma designs and bring them to life with GSAP & Three.js animations. 
+        I also develop cross-platform React Native mobile applications for iOS and Android. From cloud deployment 
+        on AWS and containerization with Docker to full DevOps pipelines, I handle everything from the first line 
+        of code to final launch, with clear communication every step of the way.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
